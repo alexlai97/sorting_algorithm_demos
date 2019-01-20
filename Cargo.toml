@@ -1,0 +1,7 @@
+[package]
+name = "sorting_algs_demos"
+version = "0.1.0"
+authors = ["Alex Lai <x7lai@uwaterloo.ca>"]
+edition = "2018"
+
+[dependencies]
